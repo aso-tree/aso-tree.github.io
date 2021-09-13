@@ -233,8 +233,8 @@ high_call_frequency = {
     parent: initiate_call_behaviour,
     text: {
         title: "state_variable",
-        id: "id = initiate_call_behaviour",
-        leaf: "leaf_id = send_sms_behaviour",
+        id: "id = high_call_frequency",
+        leaf: "leaf_id = initiate_call_behaviour",
         value: "value = <UNASSIGNED>",
         history: "history = []",
         ari: "ari = 7",
